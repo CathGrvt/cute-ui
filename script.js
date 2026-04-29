@@ -9,18 +9,18 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "Non",
-    "Tu es s\ûre ? 🤔",
-    "stp... 🥺",
-    "Si tu dis non je vais \être tristounet...",
-    "Me fais pas \ça ...",
-    "Derni\ère chance! 😭",
-    "De toute fa\çon tu n'm'attraperas pas 😜"
+    "No",
+    "Are you sure? 🤔",
+    "Please... 🥺",
+    "If you say no, I'm going to be sad...",
+    "Don't do this to me...",
+    "Last chance! 😭",
+    "Anyway, you won't catch me 😜"
 ]
 
 const yesTeasePokes = [
-    "Essaie de d'abord de dire non... Tu verras, j'ai pensé à tout 😏",
-    "Clique Non, juste une fois 👀",
+    "Try saying no first... You'll see, I've thought of everything 😏",
+    "Click No, just once 👀",
 ]
 
 let yesTeasedCount = 0
